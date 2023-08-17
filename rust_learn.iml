@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-1-Variable Binding/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-2-Basic Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-3-Ownership Borrowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-4-Complicated Types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-5-Process Control/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-6-Pattern Match/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-1-Variable Binding/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-2-Basic Types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-3-Ownership Borrowing/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-4-Complicated Types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-5-Process Control/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-6-Pattern Match/target" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
