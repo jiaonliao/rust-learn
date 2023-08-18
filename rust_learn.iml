@@ -9,12 +9,16 @@
       <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-4-Complicated Types/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-5-Process Control/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-6-Pattern Match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-7-Method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-8-Generics Trait/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-1-Variable Binding/target" />
       <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-2-Basic Types/target" />
       <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-3-Ownership Borrowing/target" />
       <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-4-Complicated Types/target" />
       <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-5-Process Control/target" />
       <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-6-Pattern Match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-7-Method/target" />
+      <excludeFolder url="file://$MODULE_DIR$/1-Language Foundation/1-2-Rust Basic/1-2-8-Generics Trait/target" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
